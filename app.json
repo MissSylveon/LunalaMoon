@@ -193,12 +193,7 @@
          "description": "Required for wallpaper. Get your's from https://wall.alphacoders.com/",
          "required": false,
          "value": ""
-      },
-      "REDIS_URI": {
-         "description": "Required for wallpaper. Get your's from www.redis.com",
-         "required": true,
-         "value": "redis://Zaidrobot:Anmol@123@redis-12356.c284.us-east1-2.gce.cloud.redislabs.com:12356/Zaidrobot"
-     }
+      }
       
    }
 }
