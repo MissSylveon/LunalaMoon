@@ -91,7 +91,7 @@
       "CASH_API_KEY": {
          "description": "Required for currency converter. Get yours from https://www.alphavantage.co/support/#api-key",
          "required": true,
-         "value": "-xyz"
+         "value": "-XL0MAKY8YQQUUR6Y"
       },
       "TIME_API_KEY": {
          "description": "Required for timezone information. Get yours from https://timezonedb.com/api",
